@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinCuadrática</string>
+    <string name="second">SecondActivity</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="X2">X^2</string>
+    <string name="X1">X</string>
+    <string name="X0">Constante</string>
+</resources>
